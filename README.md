@@ -34,6 +34,6 @@ Division of Labor:
 	
 	Aneesh: comments model, comments controller, pages controller
 	
-	Srinand: views, migrations, html design, gem implementation
+	Srinand: views, migrations, gem implementation, html design
 
 Link to app document: https://docs.google.com/document/d/18VFWW3_ZVyN5BPYy3JGEADjiybIZxiZFJ7Gf6b4AF7c/edit
